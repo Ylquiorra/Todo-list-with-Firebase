@@ -1,0 +1,17 @@
+.universal-text {
+}
+.universal-input {
+  font-size: 20px;
+  padding: 8px 12px;
+  line-height: 1.5;
+  border: 1px solid rgb(231, 231, 231);
+}
+.universal-button {
+  font-size: 20px;
+  font-weight: 600;
+  padding: 8px 12px;
+  background-color: aliceblue;
+  &:hover {
+    background-color: rgb(220, 236, 250);
+  }
+}
