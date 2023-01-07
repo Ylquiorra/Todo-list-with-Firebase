@@ -21,4 +21,4 @@ Firebase, dayjs, sass;
 
 ### `npm start`
 
-## Если планируете использовать в своих целях - следует изменить ключи в файле .env на ваши. Как это сделать описано вот тут[https://firebase.google.com/docs/web/setup?authuser=0&hl=en]
+## Если планируете использовать в своих целях - следует изменить ключи в файле .env на ваши. Как это сделать описано вот [тут](https://firebase.google.com/docs/web/setup?authuser=0&hl=en])
